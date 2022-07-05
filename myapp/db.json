@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "beach and raml",
+      "description": "Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.",
+      "category": "travel",
+      "imageUrl": "http://res.cloudinary.com/blogins/image/upload/v1655491134/dmhlyikfoxyahrpss3gy.jpg",
+      "date": "05/17/2022/ hours is 20",
+      "id": 2
+    },
+    {
+      "title": "foods",
+      "description": "foods  is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.",
+      "category": "foods",
+      "imageUrl": "http://res.cloudinary.com/blogins/image/upload/v1655504283/zzkxzxfui3gsubyzdepl.jpg",
+      "date": "05/18/2022/ hours is 0",
+      "id": 6
+    },
+    {
+      "title": "tech",
+      "description": "Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.",
+      "category": "travel",
+      "imageUrl": "http://res.cloudinary.com/blogins/image/upload/v1655512154/xzp85grepo0inc0prg8o.jpg",
+      "date": "05/18/2022/ hours is 2",
+      "id": 7
+    },
+    {
+      "title": "makrona",
+      "description": "foods is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.",
+      "category": "foods",
+      "imageUrl": "http://res.cloudinary.com/blogins/image/upload/v1655517480/syfppvjewakzfcgvjwib.jpg",
+      "date": "05/18/2022/ hours is 3",
+      "id": 8
+    },
+    {
+      "title": "pyramids",
+      "description": "Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip.",
+      "category": "travel",
+      "imageUrl": "http://res.cloudinary.com/blogins/image/upload/v1655565465/bleqf7mvuqwkcevwric9.jpg",
+      "date": "05/18/2022/ hours is 17",
+      "id": 10
+    },
+    {
+      "title": "yaratamer",
+      "description": "travel",
+      "category": "travel",
+      "imageUrl": "http://res.cloudinary.com/blogins/image/upload/v1656771275/jkhvasfmjlog1cb6ssjn.png",
+      "date": "06/02/2022/ hours is 16",
+      "id": 11
+    }
+  ]
+}

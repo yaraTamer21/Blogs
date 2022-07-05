@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right , #110f10, #1a1919, #232222, #2c2b2b, #353434, #3e3c3c, #464444, #4f4c4d, #585556, #625e5f, #6c6769, #767072);}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.category,
+.categoryError {
+
+  padding: 8px;
+  border-radius: 5px;
+  width: 100%;
+
+}
+
+.category {
+  border-color: #00b74a;
+}
+
+.categoryError {
+  border-color: Red;
+}
+
+.text-topology {
+  font-size: 70px;
+  letter-spacing: 7px;
+}
+
+.text-blog {
+  letter-spacing: 1px;
+  background-color: #ebe3e3;
+}
+
+h1:after,
+h1:before {
+
+  position: relative;
+  content: "";
+  background-color: black;
+  height: 1px;
+  width: 50%;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+
+h1 {
+  overflow: hidden;
+}
+
+h1:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+
+h1:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+.shadow-blog {
+  box-shadow: 10px 10px 70px rgb(139, 129, 129);
+}
+
+.header-blog {
+
+  background-color: rgb(214, 202, 202);
+  padding: 10px;
+  margin-top: 10px;
+
+  border-radius: 5px;
+}
+/* .col-blog{
+  background-color: transparent !important;
+} */
+.header-blog:after,
+.header-blog:before {
+
+  position: relative;
+  content: "";
+  background-color: black;
+  height: 3px;
+  width: 50%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.header-blog:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+
+.header-blog:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+.search {
+
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  border-radius: 4px;
+  margin-top: 14px;
+  display: flex;
+
+}
+.latest-images{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  padding: 10px;
+}
+.body-latest{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title-latest{
+  font-size: 25px;
+  font-weight: 500;
+}
+
